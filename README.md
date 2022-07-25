@@ -1,6 +1,10 @@
 ## 100 numpy exercises
 
+This is a collection of numpy exercises forked from rougier/numpy-100 to study and improve my skills in Numpy in order to become a Data Scientist.
+
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/rougier/numpy-100/notebooks/100%20Numpy%20exercises.ipynb)
+
+The following is the description from te orioginal repository.
 
 This is a collection of numpy exercises from numpy mailing list, stack overflow, and numpy documentation. I've also created some problems myself to reach the 100 limit. The goal of this collection is to offer a quick reference for both old and new users but also to provide a set of exercises for those who teach. For extended exercises, make sure to read [From Python to NumPy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/).
 
